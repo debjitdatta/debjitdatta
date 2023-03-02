@@ -1,3 +1,4 @@
+![logo](https://github.com/debjitdatta/debjitdatta/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Debjit Datta</h1>
 <h3 align="center">👨‍🎓 Pre-final Year Student | Open Source Enthusiast 💚 | Upcoming Data Science Engineer⚡️</h3>
 
